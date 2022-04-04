@@ -875,6 +875,6 @@ The create-react-app tool uses webpack behind the scenes. If the default configu
 
 If you eject an application created with create-react-app, there is no return and all of the configuration will have to be maintained manually. The default configuration is not trivial, and instead of ejecting from a create-react-app application, a better alternative may be to write your own webpack configuration from the get-go.
 
-Going through and reading the configuration files of an ejected application is still recommended and extremely educational.
+Going through and reading the configuration files of an ejected application is still recommended and extremely educational(maybe give an example project for ejected application, so students can play with).
 
 </div>
